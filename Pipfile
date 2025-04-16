@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+qdrant-client = "*"
+fastembed = "*"
+llama-index = "*"
+duckduckgo-search = "*"
+llama-index-vector-stores-qdrant = "*"
+llama-index-embeddings-fastembed = "*"
+llama-index-llms-ollama = "*"
+google-genai = "==1.7.0"
+markdown = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.11"
