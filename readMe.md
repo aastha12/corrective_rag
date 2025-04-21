@@ -25,4 +25,4 @@ An implementation of Corrective RAG that enhances traditional RAG systems with:
 - DuckDuckGo for deep web search
 - Qdrant for vector database
 - FastEmbed for embedding
-- DuckDuckGo for web search
+
